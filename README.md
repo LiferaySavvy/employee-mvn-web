@@ -1,5 +1,5 @@
 # employee-mvn-web  
-# Environment : Liferay 7.2 CE | Liferay 7.2 DXP EE
+# Liferay Portal Environment : Liferay 7.2 CE | Liferay 7.2 DXP EE
 ## Installation
 git clone https://github.com/iamliferaysavvy/employee-mvn-web.git  
 locate to project or import into your IDE run following maven goals.  
